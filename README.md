@@ -27,7 +27,7 @@ Stay productive with a simple desktop timer that follows the Pomodoro Technique 
 ---
 
 ### 🕒 Idle Timer
-![Idle](Asset/ScreenShoots/Screenshot 2025-06-14 083402.png)
+![Idle](Asset/ScreenShoots/Idle.png)
 
 ### 🚀 Run the App Locally
 
