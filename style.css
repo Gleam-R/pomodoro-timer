@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('Asset/Fonts/PressStart2P-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Press Start 2P', monospace;
+  background-color: #111;
+  color: #0f0;
+  text-align: center;
+  padding: 5vh;
+}
+
+#timer {
+  font-size: 6vw;
+  margin: 5vh 0;
+}
+
+button, input {
+  font-family: inherit;
+  font-size: 2vw;
+  margin: 1vh;
+  padding: 1vh 2vw;
+  background: #222;
+  color: #0f0;
+  border: 2px solid rgb(255, 255, 255);
+}
+
+input {
+  width: 5vw;
+  text-align: center;
+  background: #111;
+}
+
+.controls {
+  margin-top: 4vh;
+}
+
+button:hover{
+  background: #ffffff;
+  cursor: pointer;
+}
